@@ -1,0 +1,16 @@
+.track-container {
+    width: 45%;
+    background-color: #8B0000;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 10px;
+  }
+  
+  .calendar {
+    margin-top: 1rem;
+    background-color: #fff;
+    color: #8B0000;
+    padding: 1rem;
+    border-radius: 10px;
+  }
+  

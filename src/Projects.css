@@ -1,0 +1,42 @@
+.projects-container {
+    width: 45%;
+    background-color: #8B0000;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 10px;
+  }
+  
+  .add-button {
+    background-color: #fff;
+    color: #8B0000;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .project-list {
+    margin-top: 1rem;
+  }
+  
+  .project-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    background-color: #D3D3D3;
+    padding: 0.5rem;
+    border-radius: 5px;
+  }
+  
+  .project-item a {
+    color: #8B0000;
+    text-decoration: none;
+  }
+  
+  .status {
+    background-color: #fff;
+    color: #8B0000;
+    padding: 0.2rem 0.5rem;
+    border-radius: 5px;
+  }
+  

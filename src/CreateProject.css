@@ -1,0 +1,25 @@
+.create-project-container {
+    background-color: #8B0000;
+    color: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  form input, form button {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    border-radius: 5px;
+  }
+  
+  form button {
+    background-color: #fff;
+    color: #8B0000;
+    border: none;
+    cursor: pointer;
+  }
+  
